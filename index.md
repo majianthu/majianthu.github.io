@@ -1,10 +1,9 @@
-![photo](/head.jpeg "myself")
-
-## MA Jian
-
-PhD, Tsinghua University (2009)
-
-Email: majian03@gmail.com
+<table border = "0">
+  <tr>
+    <td><img src="/head.jpeg" /></td>
+    <td> <h2> MA Jian </h2> <br> PhD, Tsinghua University (2009) <br> Email: majian03@gmail.com </td>
+  </tr>
+</table>
 
 ### Publication
 [![Google Scholar](/gs.png "Google Scholar")](https://scholar.google.com/citations?user=gqCD4kwAAAAJ)
