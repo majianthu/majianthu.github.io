@@ -1,20 +1,20 @@
 ![photo](/head.jpeg "myself")
 
-# MA Jian
+## MA Jian
 
 PhD, Tsinghua University (2009)
 
 Email: majian03@gmail.com
 
-## Publication
+### Publication
 [![Google Scholar](/gs.png "Google Scholar")](https://scholar.google.com/citations?user=gqCD4kwAAAAJ)
 [![arXiv](/arxiv.png "arXiv")](http://arxiv.org/a/ma_j_3)
 
-## Talks
+### Talks
 * Neurotalk 2021, Singapore. "Predicting TUG score from gait characteristics with video analysis and machine learning", Invited talk.
 * CIAC 2020, Xitang, China. "Copula Entropy: Theory and Applications", Keynote talk.
 
-## Software
+### Software
 [![GitHub](/github.png "my GitHub")](https://github.com/majianthu)
 
 * copent 
