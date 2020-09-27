@@ -1,7 +1,7 @@
 ---
 
 ---
-@import "{{ site.theme }}";
+@import "";
 
 
 
@@ -9,4 +9,15 @@ h1 {
 
 display: none;
 
+}
+
+table
+{
+   border-collapse:collapse;
+} 
+
+td
+{
+   border:none;
+   outline:none;
 }
