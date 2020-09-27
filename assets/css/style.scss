@@ -1,12 +1,6 @@
 ---
 
 ---
-@import "";
+@import "{{ site.theme }}";
 
-
-
-h1 {
-
-display: none;
-
-}
+h1{display: none;}
