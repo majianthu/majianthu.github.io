@@ -22,7 +22,7 @@
 
 #### Smart Elderly Care
 * Ma, Jian. "Predicting MMSE Score from Finger-Tapping Measurement." arXiv preprint [arXiv:2004.08730](https://arxiv.org/abs/2004.08730) (2020).
-* Ma, Jian. "Predicting TUG score from gait characteristics based on video analysis and machine learning." arXiv preprint [arXiv:2003.00875](https://arxiv.org/abs/2003.00875) (2020).
+* Ma, Jian. "Predicting TUG score from gait characteristics with video analysis and machine learning." arXiv preprint [arXiv:2003.00875](https://arxiv.org/abs/2003.00875) (2020).
 * Ma, Jian. "Associations between finger tapping, gait and fall risk with application to fall risk assessment." arXiv preprint [arXiv:2006.16648](https://arxiv.org/abs/2006.16648) (2020).
 
 ### Talks
