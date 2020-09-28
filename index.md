@@ -1,7 +1,7 @@
 <table border = "0">
   <tr>
     <td><img src="/head.jpeg" /></td>
-    <td> <h2> MA Jian </h2> <br> PhD, Tsinghua University (2009) <br> Email: majian03@gmail.com </td>
+    <td> <h2> MA Jian </h2> PhD, Tsinghua University (2009) <br> Email: majian03@gmail.com </td>
   </tr>
 </table>
 
