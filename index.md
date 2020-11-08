@@ -27,7 +27,7 @@
 
 ### Talks
 * Neurotalk 2021, Singapore. "Predicting TUG score from gait characteristics with video analysis and machine learning", invited talk.
-* CIAC 2020, Xitang, China. "Copula Entropy: Theory and Applications", keynote talk.
+* CIAC 2020, Xitang, China. "Copula Entropy: Theory and Applications", keynote talk. [[slides](/ciac2020ce.pdf)]
 
 ### Software
 [![GitHub](/github.png "my GitHub")](https://github.com/majianthu)
