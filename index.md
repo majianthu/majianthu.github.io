@@ -8,9 +8,9 @@
 ---
 
 ### Publication
-[![Google Scholar](/gs.png "Google Scholar")](https://scholar.google.com/citations?user=gqCD4kwAAAAJ)
-[![arXiv](/arxiv.png "arXiv")](http://arxiv.org/a/ma_j_3)
-[![ResearchGate](/researchgate.png "ResearchGate")](https://www.researchgate.net/profile/Jian_Ma9)
+[[Google Scholar](https://scholar.google.com/citations?user=gqCD4kwAAAAJ)]
+[[arXiv](http://arxiv.org/a/ma_j_3)]
+[[ResearchGate](https://www.researchgate.net/profile/Jian_Ma9)]
 
 #### Copula Entropy
 * Ma, Jian, and Sun, Zengqi. "Mutual information is copula entropy." Tsinghua Science & Technology 16.1 (2011): 51-54. See also arXiv preprint [arXiv:0808.0845](https://arxiv.org/abs/0808.0845) (2008).
@@ -30,7 +30,7 @@
 * CIAC 2020, Xitang, China. "Copula Entropy: Theory and Applications", keynote talk. [[slides](/ciac2020ce.pdf)]
 
 ### Software
-[![GitHub](/github.png "my GitHub")](https://github.com/majianthu)
+[[GitHub](https://github.com/majianthu)]
 
 #### copent 
 
