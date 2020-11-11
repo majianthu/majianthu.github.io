@@ -36,5 +36,6 @@
 The package *copent* in R and Python is implemented for estimating copula entropy. The paper on implementation and usage of the packages is available at [here](https://arxiv.org/abs/2005.14025).
 * R [![CRAN](https://www.r-pkg.org/badges/version/copent)](https://cran.r-project.org/package=copent)
 * Python [![PyPI version](https://badge.fury.io/py/copent.svg)](https://pypi.org/project/copent)
+
 ---
 Last update: 2020-11-11
