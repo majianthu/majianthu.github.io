@@ -7,7 +7,7 @@
 
 ---
 
-### Publication
+### Publications
 [[Google Scholar](https://scholar.google.com/citations?user=gqCD4kwAAAAJ)]
 [[arXiv](http://arxiv.org/a/ma_j_3)]
 [[ResearchGate](https://www.researchgate.net/profile/Jian_Ma9)]
@@ -33,9 +33,8 @@
 [[GitHub](https://github.com/majianthu)]
 
 #### copent 
-
-The package *copent* in R and Python for estimating copula entropy are available on [CRAN](https://CRAN.R-project.org/package=copent)
-and [PyPI](https://pypi.org/project/copent) respectively. The source codes of the packages are provided on GitHub at [here](https://github.com/majianthu/copent) and [here](https://github.com/majianthu/pycopent). Implementation and usage of the packages is introduced in [this paper](https://arxiv.org/abs/2005.14025).
-
+The package *copent* in R and Python is implemented for estimating copula entropy. The paper on implementation and usage of the packages is available at [here](https://arxiv.org/abs/2005.14025).
+* R [![CRAN](https://www.r-pkg.org/badges/version/copent)](https://cran.r-project.org/package=copent)
+* Python [![PyPI version](https://badge.fury.io/py/copent.svg)](https://pypi.org/project/copent)
 ---
-last update: 2020-09-27
+Last update: 2020-11-11
