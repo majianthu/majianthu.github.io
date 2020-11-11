@@ -29,11 +29,11 @@
 * Neurotalk 2021, Singapore. "Predicting TUG score from gait characteristics with video analysis and machine learning", invited talk.
 * CIAC 2020, Xitang, China. "Copula Entropy: Theory and Applications", keynote talk. [[slides](/ciac2020ce.pdf)]
 
-### Software
+### Softwares
 [[GitHub](https://github.com/majianthu)]
 
 #### copent 
-The package *copent* in R [![CRAN](https://www.r-pkg.org/badges/version/copent)](https://cran.r-project.org/package=copent) and Python [![PyPI version](https://badge.fury.io/py/copent.svg)](https://pypi.org/project/copent) is implemented for estimating copula entropy. The paper on implementation and usage of the packages is available at [here](https://arxiv.org/abs/2005.14025).
+The package *copent* in R [![CRAN](https://www.r-pkg.org/badges/version/copent)](https://cran.r-project.org/package=copent) and Python [![PyPI version](https://badge.fury.io/py/copent.svg)](https://pypi.org/project/copent) are implemented for estimating copula entropy. The paper on implementation and usage of the packages is available at [here](https://arxiv.org/abs/2005.14025).
 
 ---
 Last update: 2020-11-11
