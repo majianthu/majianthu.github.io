@@ -11,7 +11,7 @@
 [[Google Scholar](https://scholar.google.com/citations?user=gqCD4kwAAAAJ)]
 [[arXiv](http://arxiv.org/a/ma_j_3)]
 [[ResearchGate](https://www.researchgate.net/profile/Jian_Ma9)]
-[[OCRID](https://orcid.org/0000-0001-5357-1921)]
+[[ORCID](https://orcid.org/0000-0001-5357-1921)]
 
 #### Copula Entropy
 * Ma, Jian, and Sun, Zengqi. "Mutual information is copula entropy." Tsinghua Science & Technology 16.1 (2011): 51-54. See also arXiv preprint [arXiv:0808.0845](https://arxiv.org/abs/0808.0845) (2008).
