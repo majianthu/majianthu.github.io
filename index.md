@@ -34,7 +34,9 @@
 [[GitHub](https://github.com/majianthu)]
 
 #### copent 
-The package *copent* in R [![CRAN](https://www.r-pkg.org/badges/version/copent)](https://cran.r-project.org/package=copent) and Python [![PyPI version](https://badge.fury.io/py/copent.svg)](https://pypi.org/project/copent) are implemented for estimating copula entropy. The paper on implementation and usage of the packages is available at [here](https://arxiv.org/abs/2005.14025).
+The package *copent* in R [![CRAN](https://www.r-pkg.org/badges/version/copent)](https://cran.r-project.org/package=copent) and Python [![PyPI version](https://badge.fury.io/py/copent.svg)](https://pypi.org/project/copent) are implemented for estimating copula entropy. The paper on implementation and usage of the packages is available at [here](https://arxiv.org/abs/2005.14025). 
+
+A package 'CopEnt' in Julia by other researcher is available at [here](https://github.com/xukai92/CopEnt.jl).
 
 ---
-Last update: 2020-11-26
+Last update: 2021-02-24
