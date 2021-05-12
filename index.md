@@ -28,6 +28,7 @@
 
 ### Talks
 * Neurotalk 2022, Singapore. "Predicting TUG score from gait characteristics with video analysis and machine learning", invited talk.
+* useR! 2021, online. "copent: Estimating Copula Entropy in R", regular talk.
 * CIAC 2020, Xitang, China. "Copula Entropy: Theory and Applications", keynote talk. [[slides](/ciac2020ce.pdf)]
 
 ### Softwares
