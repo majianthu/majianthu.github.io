@@ -40,4 +40,4 @@ The package copent in R [![CRAN](https://www.r-pkg.org/badges/version/copent)](h
 A package 'CopEnt' in Julia by other researcher is available at [here](https://github.com/xukai92/CopEnt.jl).
 
 ---
-Last update: 2021-03-30
+Last update: 2021-05-12
