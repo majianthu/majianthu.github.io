@@ -38,7 +38,6 @@
 #### copent 
 * R [![CRAN](https://www.r-pkg.org/badges/version/copent)](https://cran.r-project.org/package=copent) 
 * Python [![PyPI version](https://badge.fury.io/py/copent.svg)](https://pypi.org/project/copent) 
-* * [the paper](https://arxiv.org/abs/2005.14025). 
 * [Julia](https://github.com/xukai92/CopEnt.jl) by [XU Kai](https://github.com/xukai92/)
 
 ---
