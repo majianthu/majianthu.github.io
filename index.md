@@ -29,7 +29,7 @@
 
 ### Talks
 * Neurotalk 2022, Singapore. "Predicting TUG score from gait characteristics with video analysis and machine learning", invited talk.
-* useR! 2021, online. "copent: Estimating Copula Entropy and Transfer Entropy in R", regular talk. [[slides](/useR2021.pdf)]
+* useR! 2021, online. "copent: Estimating Copula Entropy and Transfer Entropy in R", regular talk. [[slides](/useR2021.pdf)] [[video](https://www.youtube.com/watch?v=5IKm9MHGoDM)]
 * CIAC 2020, Xitang, China. "Copula Entropy: Theory and Applications", keynote talk. [[slides](/ciac2020ce.pdf)]
 
 ### Softwares
@@ -41,4 +41,4 @@ The package copent in R [![CRAN](https://www.r-pkg.org/badges/version/copent)](h
 A package 'CopEnt' in Julia by other researcher is available at [here](https://github.com/xukai92/CopEnt.jl).
 
 ---
-Last update: 2021-06-14
+Last update: 2021-08-11
