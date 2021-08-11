@@ -35,7 +35,7 @@
 ### Softwares
 [[GitHub](https://github.com/majianthu)]
 
-#### copent 
+#### copent : Estimating Copula Entropy and Transfer Entropy
 * R : [[CRAN](https://cran.r-project.org/package=copent)] [[GitHub](https://github.com/majianthu/copent)]
 * Python : [[PyPI](https://pypi.org/project/copent)] [[GitHub](https://github.com/majianthu/pycopent)]
 * Julia by  [XU Kai](https://github.com/xukai92/) : [[JuliaHub](https://juliahub.com/ui/Packages/CopEnt/rRUXw/0.1.0)] [[GitHub](https://github.com/xukai92/CopEnt.jl)]
