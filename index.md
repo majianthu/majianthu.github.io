@@ -36,9 +36,9 @@
 [[GitHub](https://github.com/majianthu)]
 
 #### copent 
-* R [![CRAN](https://www.r-pkg.org/badges/version/copent)](https://cran.r-project.org/package=copent) 
-* Python [![PyPI version](https://badge.fury.io/py/copent.svg)](https://pypi.org/project/copent) 
-* [Julia](https://github.com/xukai92/CopEnt.jl) by [XU Kai](https://github.com/xukai92/)
+* R : [[CRAN](https://cran.r-project.org/package=copent)] [[GitHub](https://github.com/majianthu/copent)]
+* Python : [[PyPI](https://pypi.org/project/copent)] [[GitHub](https://github.com/majianthu/pycopent)]
+* Julia by  [XU Kai](https://github.com/xukai92/) : [[JuliaHub](https://juliahub.com/ui/Packages/CopEnt/rRUXw/0.1.0)] [[GitHub](https://github.com/xukai92/CopEnt.jl)]
 
 ---
 Last update: 2021-08-11
