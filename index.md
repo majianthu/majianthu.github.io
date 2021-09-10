@@ -25,7 +25,7 @@
 #### AI in Medicine
 * Ma, Jian. "Predicting MMSE Score from Finger-Tapping Measurement." arXiv preprint [arXiv:2004.08730](https://arxiv.org/abs/2004.08730) (2020).
 * Ma, Jian. "Predicting TUG score from gait characteristics with video analysis and machine learning." arXiv preprint [arXiv:2003.00875](https://arxiv.org/abs/2003.00875) (2020).
-* Ma, Jian. "Associations between finger tapping, gait and fall risk with application to fall risk assessment." arXiv preprint [arXiv:2006.16648](https://arxiv.org/abs/2006.16648) (2020).
+* Ma, Jian. "Associations between finger tapping, gait and fall risk with application to fall risk assessment." arXiv preprint [arXiv:2006.16648](https://arxiv.org/abs/2006.16648) (2020). [[blog](https://www.hitachi.com.cn/hcrd/sc/aiblog/0924/index.html)]
 
 ### Talks
 * Neurotalk 2022, Singapore. "Predicting TUG score from gait characteristics with video analysis and machine learning", invited talk.
@@ -41,4 +41,4 @@
 * Julia by  [XU Kai](https://github.com/xukai92/) : [[JuliaHub](https://juliahub.com/ui/Packages/CopEnt/rRUXw/0.1.0)] [[GitHub](https://github.com/xukai92/CopEnt.jl)]
 
 ---
-Last update: 2021-08-11
+Last update: 2021-09-10
