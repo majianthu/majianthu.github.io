@@ -14,7 +14,7 @@
 [[ORCID](https://orcid.org/0000-0001-5357-1921)]
 
 #### Copula Entropy
-* Ma, Jian, and Sun, Zengqi. "Mutual information is copula entropy." Tsinghua Science & Technology 16.1 (2011): 51-54. See also arXiv preprint [arXiv:0808.0845](https://arxiv.org/abs/0808.0845) (2008). [[link](https://doi.org/10.1016/S1007-0214(11)70008-6)]
+* Ma, Jian, and Sun, Zengqi. "Mutual information is copula entropy." Tsinghua Science & Technology, 2011, 16(1): 51-54. See also arXiv preprint [arXiv:0808.0845](https://arxiv.org/abs/0808.0845) (2008). [[link](https://doi.org/10.1016/S1007-0214(11)70008-6)]
 * Ma, Jian, and Sun, Zengqi. "Dependence structure estimation via copula." arXiv preprint [arXiv:0804.4451](https://arxiv.org/abs/0804.4451) (2008).
 * Ma, Jian. "Discovering Association with Copula Entropy." arXiv preprint [arXiv:1907.12268](https://arxiv.org/abs/1907.12268) (2019).
 * Ma, Jian. "Variable Selection with Copula Entropy." Chinese Journal of Applied Probability and Statistics, 2021, 37(4): 405-420. See also arXiv preprint [arXiv:1910.12389](https://arxiv.org/abs/1910.12389) (2019). [[link](http://aps.ecnu.edu.cn/CN/10.3969/j.issn.1001-4268.2021.04.006)] [[code](https://github.com/majianthu/aps2020)]
