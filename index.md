@@ -23,7 +23,7 @@
 * 马健. "Copula熵：理论和应用." [ChinaXiv:202105.00070](http://chinaxiv.org/abs/202105.00070) (2021).
 
 #### AI in Medicine
-* Ma, Jian. "Predicting MMSE Score from Finger-Tapping Measurement."  In: Deng Z. (eds) Proceedings of 2021 Chinese Intelligent Automation Conference. Lecture Notes in Electrical Engineering, vol 801, pp 294-304. Springer, Singapore. See also arXiv preprint [arXiv:2004.08730](https://arxiv.org/abs/2004.08730) (2020). [[DOI](https://doi.org/10.1007/978-981-16-6372-7_34)]
+* Ma, Jian. "Predicting MMSE Score from Finger-Tapping Measurement."  In Proceedings of 2021 Chinese Intelligent Automation Conference. Lecture Notes in Electrical Engineering, vol 801, pp 294-304. See also arXiv preprint [arXiv:2004.08730](https://arxiv.org/abs/2004.08730) (2020). [[DOI](https://doi.org/10.1007/978-981-16-6372-7_34)]
 * Ma, Jian. "Predicting TUG score from gait characteristics with video analysis and machine learning." arXiv preprint [arXiv:2003.00875](https://arxiv.org/abs/2003.00875) (2020).
 * Ma, Jian. "Associations between finger tapping, gait and fall risk with application to fall risk assessment." arXiv preprint [arXiv:2006.16648](https://arxiv.org/abs/2006.16648) (2020). [[blog](https://www.hitachi.com.cn/hcrd/sc/aiblog/0924/index.html)]
 
