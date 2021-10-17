@@ -16,7 +16,7 @@
 #### Copula Entropy
 * Ma, Jian, and Sun, Zengqi. "Mutual information is copula entropy." Tsinghua Science & Technology, 2011, 16(1): 51-54. See also arXiv preprint [arXiv:0808.0845](https://arxiv.org/abs/0808.0845) (2008). [[DOI](https://doi.org/10.1016/S1007-0214(11)70008-6)]
 * Ma, Jian, and Sun, Zengqi. "Dependence structure estimation via copula." arXiv preprint [arXiv:0804.4451](https://arxiv.org/abs/0804.4451) (2008).
-* Ma, Jian. "Discovering Association with Copula Entropy." arXiv preprint [arXiv:1907.12268](https://arxiv.org/abs/1907.12268) (2019). [[code](https://github.com/majianthu/nhanes)]
+* Ma, Jian. "Discovering Association with Copula Entropy." arXiv preprint [arXiv:1907.12268](https://arxiv.org/abs/1907.12268) (2019). 
 * Ma, Jian. "Variable Selection with Copula Entropy." Chinese Journal of Applied Probability and Statistics, 2021, 37(4): 405-420. See also arXiv preprint [arXiv:1910.12389](https://arxiv.org/abs/1910.12389) (2019). [[URL](http://aps.ecnu.edu.cn/CN/10.3969/j.issn.1001-4268.2021.04.006)] [[code](https://github.com/majianthu/aps2020)]
 * Ma, Jian. "Estimating Transfer Entropy via Copula Entropy." arXiv preprint [arXiv:1910.04375](https://arxiv.org/abs/1910.04375) (2019). [[code](https://github.com/majianthu/transferentropy)]
 * Ma, Jian. "copent: Estimating Copula Entropy and Transfer Entropy in R." arXiv preprint [arXiv:2005.14025](https://arxiv.org/abs/2005.14025) (2020).
