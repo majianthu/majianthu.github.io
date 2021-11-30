@@ -20,6 +20,7 @@
 * Ma, Jian. "Variable Selection with Copula Entropy." Chinese Journal of Applied Probability and Statistics, 2021, 37(4): 405-420. See also arXiv preprint [arXiv:1910.12389](https://arxiv.org/abs/1910.12389) (2019). [[URL](http://aps.ecnu.edu.cn/CN/10.3969/j.issn.1001-4268.2021.04.006)] [[code](https://github.com/majianthu/aps2020)]
 * Ma, Jian. "Estimating Transfer Entropy via Copula Entropy." arXiv preprint [arXiv:1910.04375](https://arxiv.org/abs/1910.04375) (2019). [[code](https://github.com/majianthu/transferentropy)]
 * Ma, Jian. "copent: Estimating Copula Entropy and Transfer Entropy in R." arXiv preprint [arXiv:2005.14025](https://arxiv.org/abs/2005.14025) (2020).
+* Ma, Jian. "On Thermodynamic Interpretation of Copula Entropy." arXiv preprint [arXiv:2111.14042](https://arxiv.org/abs/2111.14042) (2021).
 * 马健. "Copula熵：理论和应用." [ChinaXiv:202105.00070](http://chinaxiv.org/abs/202105.00070) (2021). [[pdf](/ce-survey.pdf)]
 
 #### AI in Medicine
@@ -41,4 +42,4 @@
 * Julia by  [XU Kai](https://github.com/xukai92/) : [[JuliaHub](https://juliahub.com/ui/Packages/CopEnt/rRUXw/0.1.0)] [[GitHub](https://github.com/xukai92/CopEnt.jl)]
 
 ---
-Last update: 2021-11-20
+Last update: 2021-11-30
