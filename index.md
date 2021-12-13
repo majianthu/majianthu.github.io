@@ -29,6 +29,7 @@
 * Ma, Jian. **Associations between finger tapping, gait and fall risk with application to fall risk assessment**. arXiv preprint [arXiv:2006.16648](https://arxiv.org/abs/2006.16648) (2020). [[blog](https://www.hitachi.com.cn/hcrd/sc/aiblog/0924/index.html)]
 
 ### Talks
+* BioST 2022, Osaka, Japan. **Predicting TUG score from gait characteristics with video analysis and machine learning**, invited talk.
 * Neurotalk 2022, Singapore. **Predicting TUG score from gait characteristics with video analysis and machine learning**, invited talk.
 * useR! 2021, online. **copent: Estimating Copula Entropy and Transfer Entropy in R**, regular talk. [[slides](/useR2021.pdf)] [[video](https://www.youtube.com/watch?v=5IKm9MHGoDM)]
 * CIAC 2020, Xitang, China. **Copula Entropy: Theory and Applications**, keynote talk. [[slides](/ciac2020ce.pdf)]
@@ -42,4 +43,4 @@
 * Julia by  [XU Kai](https://github.com/xukai92/) : [[JuliaHub](https://juliahub.com/ui/Packages/CopEnt/rRUXw/0.1.0)] [[GitHub](https://github.com/xukai92/CopEnt.jl)]
 
 ---
-Last update: 2021-11-30
+Last update: 2021-12-13
