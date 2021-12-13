@@ -8,9 +8,9 @@
 ---
 
 ### Publications
-[Google Scholar](https://scholar.google.com/citations?user=gqCD4kwAAAAJ)·
-[arXiv](http://arxiv.org/a/ma_j_3)·
-[ResearchGate](https://www.researchgate.net/profile/Jian_Ma9)·
+[Google Scholar](https://scholar.google.com/citations?user=gqCD4kwAAAAJ) · 
+[arXiv](http://arxiv.org/a/ma_j_3) · 
+[ResearchGate](https://www.researchgate.net/profile/Jian_Ma9) · 
 [ORCID](https://orcid.org/0000-0001-5357-1921)
 
 #### Copula Entropy
