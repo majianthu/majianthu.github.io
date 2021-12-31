@@ -44,4 +44,4 @@
 * Julia by  [XU Kai](https://github.com/xukai92/) : [[JuliaHub](https://juliahub.com/ui/Packages/CopEnt/rRUXw/0.1.0)] [[GitHub](https://github.com/xukai92/CopEnt.jl)]
 
 ---
-Last update: 2021-12-13
+Last update: 2021-12-31
