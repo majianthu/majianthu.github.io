@@ -4,9 +4,9 @@
     <td> <h2> MA Jian </h2> PhD, Tsinghua University (2009) <br> Email: majian03@gmail.com </td>
   </tr>
 </table>
+Ma got his PhD in computer science from Tsinghua University in 2009. His research interests include machine learning, statistics, information theory, theoretical physics, and medicine (especially geriatrics). He is the author of the R and Python package **copent**.
 
 ---
-
 ### Publications
 [Google Scholar](https://scholar.google.com/citations?user=gqCD4kwAAAAJ) · 
 [arXiv](http://arxiv.org/a/ma_j_3) · 
