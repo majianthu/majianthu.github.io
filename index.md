@@ -39,9 +39,9 @@ I got my PhD in computer science from Tsinghua University in 2009. My research i
 [GitHub](https://github.com/majianthu)
 
 #### copent : Estimating Copula Entropy and Transfer Entropy
-* R : [[CRAN](https://cran.r-project.org/package=copent)] [[GitHub](https://github.com/majianthu/copent)]
-* Python : [[PyPI](https://pypi.org/project/copent)] [[GitHub](https://github.com/majianthu/pycopent)]
-* Julia by  [XU Kai](https://github.com/xukai92/) : [[JuliaHub](https://juliahub.com/ui/Packages/CopEnt/rRUXw/0.1.0)] [[GitHub](https://github.com/xukai92/CopEnt.jl)]
+* R : [[CRAN](https://cran.r-project.org/package=copent) and [GitHub](https://github.com/majianthu/copent)]
+* Python : [[PyPI](https://pypi.org/project/copent) and [GitHub](https://github.com/majianthu/pycopent)]
+* Julia by  [XU Kai](https://github.com/xukai92/) : [[JuliaHub](https://juliahub.com/ui/Packages/CopEnt/rRUXw/0.1.0) and [GitHub](https://github.com/xukai92/CopEnt.jl)]
 
 ---
-Last update: 2021-01-28
+Last update: 2021-02-12
