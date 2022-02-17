@@ -27,6 +27,7 @@ I got my PhD in computer science from Tsinghua University in 2009. My research i
 * Ma, Jian. **Predicting MMSE Score from Finger-Tapping Measurement**.  In Proceedings of 2021 Chinese Intelligent Automation Conference. Lecture Notes in Electrical Engineering, vol 801, pp 294-304. See also arXiv preprint [arXiv:2004.08730](https://arxiv.org/abs/2004.08730) (2020). [[DOI](https://doi.org/10.1007/978-981-16-6372-7_34)]
 * Ma, Jian. **Predicting TUG score from gait characteristics with video analysis and machine learning**. arXiv preprint [arXiv:2003.00875](https://arxiv.org/abs/2003.00875) (2020).
 * Ma, Jian. **Associations between finger tapping, gait and fall risk with application to fall risk assessment**. arXiv preprint [arXiv:2006.16648](https://arxiv.org/abs/2006.16648) (2020). [[blog](https://www.hitachi.com.cn/hcrd/sc/aiblog/0924/index.html)]
+* Ma, Jian. **Comparison on gait characteristics between controlled and free-living conditions in old adults**. arXiv preprint [arXiv:2202.07921](https://arxiv.org/abs/2202.07921) (2022).
 
 ### Talks
 * BioST 2022, Osaka, Japan. **Predicting TUG score from gait characteristics with video analysis and machine learning**, invited talk.
@@ -44,4 +45,4 @@ I got my PhD in computer science from Tsinghua University in 2009. My research i
 * Julia by  [XU Kai](https://github.com/xukai92/) : [[JuliaHub](https://juliahub.com/ui/Packages/CopEnt/rRUXw/0.1.0) and [GitHub](https://github.com/xukai92/CopEnt.jl)]
 
 ---
-Last update: 2021-02-12
+Last update: 2021-02-17
