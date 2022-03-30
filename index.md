@@ -24,6 +24,9 @@ I got my PhD in computer science from Tsinghua University in 2009. My research i
 * 马健. **Copula熵：理论和应用**. [ChinaXiv:202105.00070](http://chinaxiv.org/abs/202105.00070) (2021). [[pdf](/ce-survey.pdf)]
 * Ma, Jian. **Causal Domain Adaptation with Copula Entropy based Conditional Independence Test**. arXiv preprint [arXiv:2202.13482](https://arxiv.org/abs/2202.13482) (2022). [[code](https://github.com/majianthu/cda)]
 
+#### Signal Processing
+* Ma, Jian and Sun, Zengqi. **Copula Component Analysis**. International Conference on Independent Component Analysis and Signal Separation, 2007, 73-80. [[DOI](https://doi.org/10.1007/978-3-540-74494-8_10)]
+
 #### AI in Medicine
 * Ma, Jian. **Predicting MMSE Score from Finger-Tapping Measurement**.  In Proceedings of 2021 Chinese Intelligent Automation Conference. Lecture Notes in Electrical Engineering, vol 801, pp 294-304. See also arXiv preprint [arXiv:2004.08730](https://arxiv.org/abs/2004.08730) (2020). [[DOI](https://doi.org/10.1007/978-981-16-6372-7_34)]
 * Ma, Jian. **Predicting TUG score from gait characteristics with video analysis and machine learning**. arXiv preprint [arXiv:2003.00875](https://arxiv.org/abs/2003.00875) (2020).
