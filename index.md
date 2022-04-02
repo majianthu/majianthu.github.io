@@ -21,7 +21,7 @@ I got my PhD in computer science from Tsinghua University in 2009. My research i
 * Ma, Jian. **Estimating Transfer Entropy via Copula Entropy**. arXiv preprint [arXiv:1910.04375](https://arxiv.org/abs/1910.04375) (2019). [[code](https://github.com/majianthu/transferentropy)]
 * Ma, Jian. **copent: Estimating Copula Entropy and Transfer Entropy in R**. arXiv preprint [arXiv:2005.14025](https://arxiv.org/abs/2005.14025) (2020).
 * Ma, Jian. **On Thermodynamic Interpretation of Copula Entropy**. arXiv preprint [arXiv:2111.14042](https://arxiv.org/abs/2111.14042) (2021).
-* 马健. **Copula熵：理论和应用**. [ChinaXiv:202105.00070](http://chinaxiv.org/abs/202105.00070) (2021). [[pdf](/ce-survey.pdf)]
+* 马健. **Copula熵：理论和应用**. [ChinaXiv:202105.00070](http://chinaxiv.org/abs/202105.00070) (2021). [[pdf](/ce-survey.pdf)] [[DOI](https://doi.org/10.12074/202105.00070)]
 * Ma, Jian. **Causal Domain Adaptation with Copula Entropy based Conditional Independence Test**. arXiv preprint [arXiv:2202.13482](https://arxiv.org/abs/2202.13482) (2022). [[code](https://github.com/majianthu/cda)]
 
 #### Signal Processing
