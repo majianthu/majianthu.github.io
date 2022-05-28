@@ -2,18 +2,21 @@
   <tr>
     <td><img src="/head.jpeg" /></td>
     <td valign="bottom"> <h2> MA Jian </h2> PhD'09, Tsinghua University <br> Email: majian03@gmail.com </td>
-    <td valign="bottom"><a href="https://blog.sciencenet.cn/u/majianthu">blog</a>· <a href="https://twitter.com/majianthu">twitter</a></td>
   </tr>
 </table>
-I got my PhD in computer science from Tsinghua University in 2009. My research interests include machine learning, statistics, information theory, theoretical physics, and medicine (especially geriatrics). I am the author of the R and Python package {copent}.
 
----
-### Publications
 [Google Scholar](https://scholar.google.com/citations?user=gqCD4kwAAAAJ) · 
 [arXiv](http://arxiv.org/a/ma_j_3) · 
 [ResearchGate](https://www.researchgate.net/profile/Jian_Ma9) · 
-[ORCID](https://orcid.org/0000-0001-5357-1921)
+[ORCID](https://orcid.org/0000-0001-5357-1921)·
+[GitHub](https://github.com/majianthu)·
+[Blog](https://blog.sciencenet.cn/u/majianthu)·
+[Twitter](https://twitter.com/majianthu)
 
+I got my PhD in computer science from Tsinghua University in 2009. My research interests include machine learning, statistics, information theory, theoretical physics, and medicine (especially geriatrics). I am the author of the R and Python package {copent}.
+
+---
+### Selected Publications
 #### Copula Entropy
 * Ma, Jian, and Sun, Zengqi. **Mutual information is copula entropy**. Tsinghua Science & Technology, 2011, 16(1): 51-54. [[arXiv](https://arxiv.org/abs/0808.0845)] [[DOI](https://doi.org/10.1016/S1007-0214(11)70008-6)]
 * Ma, Jian, and Sun, Zengqi. **Dependence structure estimation via copula**. [[arXiv](https://arxiv.org/abs/0804.4451)]
@@ -43,8 +46,6 @@ I got my PhD in computer science from Tsinghua University in 2009. My research i
 * CIAC 2020, Xitang, China. **Copula Entropy: Theory and Applications**, keynote talk. [[slides](/ciac2020ce.pdf)]
 
 ### Softwares
-[GitHub](https://github.com/majianthu)
-
 #### copent : Estimating Copula Entropy and Transfer Entropy
 * R : [[CRAN](https://cran.r-project.org/package=copent) and [GitHub](https://github.com/majianthu/copent)]
 * Python : [[PyPI](https://pypi.org/project/copent) and [GitHub](https://github.com/majianthu/pycopent)]
