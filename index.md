@@ -1,7 +1,8 @@
 <table border = "0">
   <tr>
     <td><img src="/head.jpeg" /></td>
-    <td> <h2> MA Jian </h2> PhD'09, Tsinghua University <br> Email: majian03@gmail.com </td>
+    <td valign="bottom"> <h2> MA Jian </h2> PhD'09, Tsinghua University <br> Email: majian03@gmail.com </td>
+    <td valign="bottom"><a href="https://blog.sciencenet.cn/u/majianthu/">blog</a>· <a href="https://twitter.com/majianthu">twitter</a></td>
   </tr>
 </table>
 I got my PhD in computer science from Tsinghua University in 2009. My research interests include machine learning, statistics, information theory, theoretical physics, and medicine (especially geriatrics). I am the author of the R and Python package {copent}.
