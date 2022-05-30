@@ -47,8 +47,8 @@ I got my PhD in computer science from Tsinghua University in 2009. My research i
 
 ### Softwares
 #### copent : Estimating Copula Entropy and Transfer Entropy
-* R : [![CRAN](https://www.r-pkg.org/badges/version/copent)](https://cran.r-project.org/package=copent) and [GitHub](https://github.com/majianthu/copent)
-* Python : [![PyPI version](https://badge.fury.io/py/copent.svg)](https://pypi.org/project/copent) and [GitHub](https://github.com/majianthu/pycopent)
+* R : [![CRAN](https://www.r-pkg.org/badges/version/copent)](https://cran.r-project.org/package=copent) [![GitHub stars](https://img.shields.io/github/stars/majianthu/copent.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/majianthu/copent/)
+* Python : [![PyPI version](https://badge.fury.io/py/copent.svg)](https://pypi.org/project/copent)  [![GitHub stars](https://img.shields.io/github/stars/majianthu/pycopent.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/majianthu/pycopent/)
 
 ---
 Last update: 2022-05-30
