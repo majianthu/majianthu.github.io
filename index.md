@@ -13,7 +13,7 @@
 [Blog](https://blog.sciencenet.cn/u/majianthu)·
 [Twitter](https://twitter.com/majianthu)
 
-I got my PhD in computer science from Tsinghua University in 2009. My research interests include machine learning, statistics, information theory, theoretical physics, and medicine (especially geriatrics). I am the author of the R and Python package {copent}.
+I got my PhD in computer science from Tsinghua University in 2009. My research interests include machine learning, statistics, information theory, theoretical physics, and medicine. I am the author of the R and Python package {copent}.
 
 ---
 ### Selected Publications
