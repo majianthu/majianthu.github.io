@@ -28,6 +28,7 @@ I got my PhD in computer science from Tsinghua University in 2009. My research i
 * 马健. **Copula熵：理论和应用**. [[ChinaXiv](http://chinaxiv.org/abs/202105.00070)] [[pdf](/ce-survey.pdf)] [[DOI](https://doi.org/10.12074/202105.00070)]
 * Ma, Jian. **Causal Domain Adaptation with Copula Entropy based Conditional Independence Test**. [[arXiv](https://arxiv.org/abs/2202.13482)] [[code](https://github.com/majianthu/cda)]
 * Ma, Jian. **Evaluating Independence and Conditional Independence Measures**. [[arXiv](https://arxiv.org/abs/2205.07253)] [[code](https://github.com/majianthu/eval)]
+* Ma, Jian. **Multivariate Normality Test with Copula Entropy**. [[arXiv](https://arxiv.org/abs/2206.05956)] [[code](https://github.com/majianthu/mvnt)]
 
 #### Signal Processing
 * Ma, Jian and Sun, Zengqi. **Copula Component Analysis**. International Conference on Independent Component Analysis and Signal Separation, 2007, 73-80. [[DOI](https://doi.org/10.1007/978-3-540-74494-8_10)]
@@ -51,4 +52,4 @@ I got my PhD in computer science from Tsinghua University in 2009. My research i
 * Python : [![PyPI version](https://badge.fury.io/py/copent.svg)](https://pypi.org/project/copent)  [![GitHub stars](https://img.shields.io/github/stars/majianthu/pycopent.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/majianthu/pycopent/)
 
 ---
-Last update: 2022-05-30
+Last update: 2022-06-14
