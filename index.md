@@ -8,9 +8,9 @@
 [Google Scholar](https://scholar.google.com/citations?user=gqCD4kwAAAAJ) · 
 [arXiv](http://arxiv.org/a/ma_j_3) · 
 [ResearchGate](https://www.researchgate.net/profile/Jian_Ma9) · 
-[ORCID](https://orcid.org/0000-0001-5357-1921)·
-[GitHub](https://github.com/majianthu)·
-[Blog](https://blog.sciencenet.cn/u/majianthu)·
+[ORCID](https://orcid.org/0000-0001-5357-1921) · 
+[GitHub](https://github.com/majianthu) · 
+[Blog](https://blog.sciencenet.cn/u/majianthu) · 
 [Twitter](https://twitter.com/majianthu)
 
 I got my PhD in computer science from Tsinghua University in 2009. My research interests include machine learning, statistics, information theory, theoretical physics, and medicine. I am the author of the R and Python package {copent}.
