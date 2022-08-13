@@ -43,7 +43,7 @@ I got my PhD in computer science from Tsinghua University in 2009. My research i
 * BioST 2022, Osaka, Japan. **Predicting TUG score from gait characteristics with video analysis and machine learning**, invited talk.
 * Neurotalk 2022, Singapore. **Predicting TUG score from gait characteristics with video analysis and machine learning**, invited talk.
 * Central University of Finance and Economics, 2021. **Copula Entropy and its Application to Finance**, invited talk. [[slides](/applications.pdf)]
-* useR! 2021, online. **copent: Estimating Copula Entropy and Transfer Entropy in R**, regular talk. [[slides](/useR2021.pdf)] [[video](https://www.youtube.com/watch?v=5IKm9MHGoDM)]
+* useR! 2021, Zürich, Switzerland. **copent: Estimating Copula Entropy and Transfer Entropy in R**, regular talk. [[slides](/useR2021.pdf)] [[video](https://www.youtube.com/watch?v=5IKm9MHGoDM)]
 * CIAC 2020, Xitang, China. **Copula Entropy: Theory and Applications**, keynote talk. [[slides](/ciac2020ce.pdf)]
 
 ### Softwares
@@ -52,4 +52,4 @@ I got my PhD in computer science from Tsinghua University in 2009. My research i
 * Python : [![PyPI version](https://badge.fury.io/py/copent.svg)](https://pypi.org/project/copent)  [![GitHub stars](https://img.shields.io/github/stars/majianthu/pycopent.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/majianthu/pycopent/)
 
 ---
-Last update: 2022-06-14
+Last update: 2022-08-14
