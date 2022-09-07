@@ -32,7 +32,7 @@ I got my PhD in computer science from Tsinghua University in 2009. My research i
 * Ma, Jian. **Copula Entropy based Variable Selection for Survival Analysis**. [[arXiv](https://arxiv.org/abs/2209.01561)] [[code](https://github.com/majianthu/survival)]
 
 #### Signal Processing
-* Ma, Jian and Sun, Zengqi. **Copula Component Analysis**. International Conference on Independent Component Analysis and Signal Separation, 2007, 73-80. [[DOI](https://doi.org/10.1007/978-3-540-74494-8_10)]
+* Ma, Jian and Sun, Zengqi. **Copula Component Analysis**. International Conference on Independent Component Analysis and Signal Separation, 2007, 73-80. [[DOI](https://doi.org/10.1007/978-3-540-74494-8_10)] [[arXiv](https://arxiv.org/abs/cs/0703095)]
 
 #### AI in Medicine
 * Ma, Jian. **Predicting MMSE Score from Finger-Tapping Measurement**.  In Proceedings of 2021 Chinese Intelligent Automation Conference. Lecture Notes in Electrical Engineering, vol 801, pp 294-304. [[arXiv](https://arxiv.org/abs/2004.08730)] [[DOI](https://doi.org/10.1007/978-981-16-6372-7_34)]
