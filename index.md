@@ -21,7 +21,7 @@ I got my PhD in computer science from Tsinghua University in 2009. My research i
 * Ma, Jian, and Sun, Zengqi. **Mutual information is copula entropy**. Tsinghua Science & Technology, 2011, 16(1): 51-54. [[arXiv](https://arxiv.org/abs/0808.0845)] [[DOI](https://doi.org/10.1016/S1007-0214(11)70008-6)]
 * Ma, Jian, and Sun, Zengqi. **Dependence structure estimation via copula**. [[arXiv](https://arxiv.org/abs/0804.4451)]
 * Ma, Jian. **Discovering Association with Copula Entropy**. [[arXiv](https://arxiv.org/abs/1907.12268)]
-* Ma, Jian. **Variable Selection with Copula Entropy**. Chinese Journal of Applied Probability and Statistics, 2021, 37(4): 405-420. [[arXiv](https://arxiv.org/abs/1910.12389)] [[URL](http://aps.ecnu.edu.cn/CN/10.3969/j.issn.1001-4268.2021.04.006)] [[code](https://github.com/majianthu/aps2020)] [[blog](https://www.hitachi.com.cn/hcrd/sc/aiblog/2022/0125/index.html)]
+* Ma, Jian. **Variable Selection with Copula Entropy**. Chinese Journal of Applied Probability and Statistics, 2021, 37(4): 405-420. [[arXiv](https://arxiv.org/abs/1910.12389)] [[link](http://aps.ecnu.edu.cn/CN/10.3969/j.issn.1001-4268.2021.04.006)] [[code](https://github.com/majianthu/aps2020)] [[blog](https://www.hitachi.com.cn/hcrd/sc/aiblog/2022/0125/index.html)]
 * Ma, Jian. **Estimating Transfer Entropy via Copula Entropy**. [[arXiv](https://arxiv.org/abs/1910.04375)] [[code](https://github.com/majianthu/transferentropy)]
 * Ma, Jian. **copent: Estimating Copula Entropy and Transfer Entropy in R**. [[arXiv](https://arxiv.org/abs/2005.14025)] 
 * Ma, Jian. **On Thermodynamic Interpretation of Copula Entropy**. [[arXiv](https://arxiv.org/abs/2111.14042)]
