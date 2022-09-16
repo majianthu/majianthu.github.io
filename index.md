@@ -41,7 +41,7 @@ I got my PhD in computer science from Tsinghua University in 2009. My research i
 * Ma, Jian. **Comparison on gait characteristics between controlled and free-living conditions in old adults**. [[arXiv](https://arxiv.org/abs/2202.07921)] 
 
 ### Talks
-* BioST 2022, Osaka, Japan. **Predicting TUG score from gait characteristics with video analysis and machine learning**, invited talk.
+* BioST 2022, Osaka, Japan. **Predicting TUG score from gait characteristics with video analysis and machine learning**, invited talk. [[media](https://mp.weixin.qq.com/s/WycAgUnxgy8wZQcXFhsv_Q)]
 * Neurotalk 2022, Singapore. **Predicting TUG score from gait characteristics with video analysis and machine learning**, invited talk.
 * Central University of Finance and Economics, 2021. **Copula Entropy and its Application to Finance**, invited talk. [[slides](/applications.pdf)]
 * useR! 2021, Zurich, Switzerland. **copent: Estimating Copula Entropy and Transfer Entropy in R**, regular talk. [[slides](/useR2021.pdf)] [[video](https://www.youtube.com/watch?v=5IKm9MHGoDM)]
@@ -53,4 +53,4 @@ I got my PhD in computer science from Tsinghua University in 2009. My research i
 * Python : [![PyPI version](https://badge.fury.io/py/copent.svg)](https://pypi.org/project/copent)  [![GitHub stars](https://img.shields.io/github/stars/majianthu/pycopent.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/majianthu/pycopent/)
 
 ---
-Last update: 2022-09-07
+Last update: 2022-09-17
