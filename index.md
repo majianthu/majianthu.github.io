@@ -13,7 +13,7 @@
 [Blog](https://blog.sciencenet.cn/u/majianthu) · 
 [Twitter](https://twitter.com/majianthu)
 
-I got my PhD in computer science from Tsinghua University in 2009. My research interests include machine learning, statistics, information theory, theoretical physics, and medicine. I am the author of the R and Python package {copent}.
+I got my PhD in computer science from Tsinghua University in 2009. My research interests include machine learning, statistics, information theory, theoretical physics, dynamical systems, and medicine. I am the author of the R and Python package {copent}.
 
 ---
 ### Selected Publications
@@ -25,7 +25,7 @@ I got my PhD in computer science from Tsinghua University in 2009. My research i
 * Ma, Jian. **Estimating Transfer Entropy via Copula Entropy**. [[arXiv](https://arxiv.org/abs/1910.04375)] [[code](https://github.com/majianthu/transferentropy)]
 * Ma, Jian. **copent: Estimating Copula Entropy and Transfer Entropy in R**. [[arXiv](https://arxiv.org/abs/2005.14025)] 
 * Ma, Jian. **On Thermodynamic Interpretation of Copula Entropy**. [[arXiv](https://arxiv.org/abs/2111.14042)]
-* 马健. **Copula熵：理论和应用**. [[ChinaXiv](http://chinaxiv.org/abs/202105.00070)] [[pdf](/ce-survey.pdf)] [[DOI](https://doi.org/10.12074/202105.00070)]
+* 马健. **Copula熵：理论和应用**. [[ChinaXiv](http://chinaxiv.org/abs/202105.00070)] [[pdf](/ce-survey.pdf)]
 * Ma, Jian. **Causal Domain Adaptation with Copula Entropy based Conditional Independence Test**. [[arXiv](https://arxiv.org/abs/2202.13482)] [[code](https://github.com/majianthu/cda)]
 * Ma, Jian. **Evaluating Independence and Conditional Independence Measures**. [[arXiv](https://arxiv.org/abs/2205.07253)] [[code](https://github.com/majianthu/eval)]
 * Ma, Jian. **Multivariate Normality Test with Copula Entropy**. [[arXiv](https://arxiv.org/abs/2206.05956)] [[code](https://github.com/majianthu/mvnt)]
@@ -54,4 +54,4 @@ I got my PhD in computer science from Tsinghua University in 2009. My research i
 * Python : [![PyPI version](https://badge.fury.io/py/copent.svg)](https://pypi.org/project/copent)  [![GitHub stars](https://img.shields.io/github/stars/majianthu/pycopent.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/majianthu/pycopent/)
 
 ---
-Last update: 2023-01-18
+Last update: 2023-02-11
