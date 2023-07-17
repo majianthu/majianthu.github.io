@@ -32,6 +32,7 @@ I got my PhD in computer science from Tsinghua University in 2009. My research i
 * Ma, Jian. **Copula Entropy based Variable Selection for Survival Analysis**. [[arXiv](https://arxiv.org/abs/2209.01561)] [[code](https://github.com/majianthu/survival)]
 * Ma, Jian. **Identifying Time Lag in Dynamical Systems with Copula Entropy based Transfer Entropy**. [[arXiv](https://arxiv.org/abs/2301.06037)] [[code](https://github.com/majianthu/timelag)]
 * Ma, Jian. **System Identification with Copula Entropy**. [[arXiv](https://arxiv.org/abs/2304.12922)] [[code](https://github.com/majianthu/sysid)]
+* Ma, Jian. **Two-Sample Test with Copula Entropy**. [[arXiv](https://arxiv.org/abs/2307.07247)] [[code](https://github.com/majianthu/tst)]
 
 #### Signal Processing
 * Ma, Jian and Sun, Zengqi. **Copula Component Analysis**. International Conference on Independent Component Analysis and Signal Separation, 2007, 73-80. [[DOI](https://doi.org/10.1007/978-3-540-74494-8_10)] [[arXiv](https://arxiv.org/abs/cs/0703095)]
@@ -55,4 +56,4 @@ I got my PhD in computer science from Tsinghua University in 2009. My research i
 * Python : [![PyPI version](https://badge.fury.io/py/copent.svg)](https://pypi.org/project/copent)  [![GitHub stars](https://img.shields.io/github/stars/majianthu/pycopent.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/majianthu/pycopent/)
 
 ---
-Last update: 2023-07-07
+Last update: 2023-07-17
