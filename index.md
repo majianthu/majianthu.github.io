@@ -23,7 +23,7 @@ I got my PhD in computer science from Tsinghua University in 2009. My research i
 * Ma, Jian. **Discovering Association with Copula Entropy**. [[arXiv](https://arxiv.org/abs/1907.12268)] [[code](https://github.com/majianthu/nhanes)]
 * Ma, Jian. **Variable Selection with Copula Entropy**. Chinese Journal of Applied Probability and Statistics, 2021, 37(4): 405-420. [[arXiv](https://arxiv.org/abs/1910.12389)] [[link](http://aps.ecnu.edu.cn/CN/10.3969/j.issn.1001-4268.2021.04.006)] [[code](https://github.com/majianthu/aps2020)] [[blog](https://www.hitachi.com.cn/hcrd/sc/aiblog/2022/0125/index.html)]
 * Ma, Jian. **Estimating Transfer Entropy via Copula Entropy**. [[arXiv](https://arxiv.org/abs/1910.04375)] [[code](https://github.com/majianthu/transferentropy)]
-* Ma, Jian. **copent: Estimating Copula Entropy and Transfer Entropy in R**. [[arXiv](https://arxiv.org/abs/2005.14025)] 
+* Ma, Jian. **copent: Estimating Copula Entropy and Transfer Entropy in R**. [[arXiv](https://arxiv.org/abs/2005.14025)] [[CRAN](https://CRAN.R-project.org/package=copent)] [[PyPI](https://pypi.org/project/copent/)]
 * Ma, Jian. **On Thermodynamic Interpretation of Copula Entropy**. [[arXiv](https://arxiv.org/abs/2111.14042)]
 * 马健. **Copula熵：理论和应用**. [[ChinaXiv](http://chinaxiv.org/abs/202105.00070)] [[pdf](/ce-survey.pdf)]
 * Ma, Jian. **Causal Domain Adaptation with Copula Entropy based Conditional Independence Test**. [[arXiv](https://arxiv.org/abs/2202.13482)] [[code](https://github.com/majianthu/cda)]
