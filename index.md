@@ -7,7 +7,6 @@
 
 [Google Scholar](https://scholar.google.com/citations?user=gqCD4kwAAAAJ) · 
 [arXiv](http://arxiv.org/a/ma_j_3) · 
-[ResearchGate](https://www.researchgate.net/profile/Jian_Ma9) · 
 [Semantic Scholar](https://www.semanticscholar.org/author/Jian-Ma/145608504) · 
 [ORCID](https://orcid.org/0000-0001-5357-1921) · 
 [GitHub](https://github.com/majianthu) · 
@@ -48,4 +47,4 @@ I got my PhD in computer science from Tsinghua University in 2009. My research i
 * Python : [![PyPI version](https://badge.fury.io/py/copent.svg)](https://pypi.org/project/copent)  [![GitHub stars](https://img.shields.io/github/stars/majianthu/pycopent.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/majianthu/pycopent/)
 
 ---
-Last update: 2023-11-10
+Last update: 2023-11-15
