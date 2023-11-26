@@ -1,10 +1,9 @@
 <table border = "0">
   <tr>
-    <td><img src="/head.jpeg" /></td>
-    <td valign="bottom"> <h2> MA Jian </h2> PhD'09, Tsinghua University <br> Email: majian03@gmail.com </td>
-  </tr>
-</table>
-
+    <td width="15%"><img src="/head.jpeg" /></td>
+    <td width="25%"  valign=”top“> <h2> MA Jian </h2> PhD'09, Tsinghua University <br> Email: majian03@gmail.com </td>
+    <td width="65%">
+      
 [Google Scholar](https://scholar.google.com/citations?user=gqCD4kwAAAAJ) · 
 [arXiv](http://arxiv.org/a/ma_j_3) · 
 [Semantic Scholar](https://www.semanticscholar.org/author/Jian-Ma/145608504) · 
@@ -13,7 +12,12 @@
 [Blog](https://blog.sciencenet.cn/u/majianthu) · 
 [Twitter](https://twitter.com/majianthu)
 
+<font size="1">  
 I got my PhD in computer science from Tsinghua University in 2009. My research interests include statistics, machine learning, information theory, theoretical physics, and dynamical systems. I am the author of the R and Python package {copent}.
+</font>
+    </td>
+  </tr>
+</table>
 
 ---
 ### Selected Publications
