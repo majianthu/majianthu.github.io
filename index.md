@@ -2,7 +2,7 @@
   <tr>
     <td width="15%"><img src="/head.jpeg" /></td>
     <td width="25%"> <h2> MA Jian </h2> PhD'09, Tsinghua University <br> Email: majian03@gmail.com </td>
-    <td width="65%"> I got my PhD in computer science from Tsinghua University in 2009. My research interests include statistics, machine learning, information theory, theoretical physics, and dynamical systems. I am the author of the R and Python package {copent}. </td>
+    <td width="60%"> I got my PhD in computer science from Tsinghua University in 2009. My research interests include statistics, machine learning, information theory, theoretical physics, and dynamical systems. I am the author of the R and Python package {copent}. </td>
   </tr>
 </table>
       
