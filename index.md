@@ -37,7 +37,7 @@
 * BioST 2022, Osaka, Japan. **Predicting TUG score from gait characteristics with video analysis and machine learning**, invited talk. [[media](https://www.hitachi.com.cn/hcrd/news/topics/2022/0723.html)]
 * Neurotalk 2022, Singapore. **Predicting TUG score from gait characteristics with video analysis and machine learning**, invited talk.
 * Central University of Finance and Economics, 2021. **Copula Entropy and its Application to Finance**, invited talk. [[slides](/ceapp1.pdf)]
-* useR! 2021, Zurich, Switzerland. **copent: Estimating Copula Entropy and Transfer Entropy in R**, regular talk. [[slides](/useR2021.pdf)] [[video](https://www.youtube.com/watch?v=5IKm9MHGoDM)]
+* useR! 2021, Zurich, Switzerland. **copent: Estimating Copula Entropy and Transfer Entropy in R**, regular talk. [[slides](/useR2021.pdf)] [[video](https://www.youtube.com/watch?v=5IKm9MHGoDM&t=38m02s)]
 * CIAC 2020, Xitang, China. **Copula Entropy: Theory and Applications**, keynote talk. [[slides](/ce1ta.pdf)]
 
 ### Softwares
@@ -46,4 +46,4 @@
 * Python : [![PyPI version](https://badge.fury.io/py/copent.svg)](https://pypi.org/project/copent)  [![GitHub stars](https://img.shields.io/github/stars/majianthu/pycopent.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/majianthu/pycopent/)
 
 ---
-Last update: 2023-11-26
+Last update: 2024-1-10
