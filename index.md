@@ -32,7 +32,7 @@
 * Ma, Jian. **Identifying Time Lag in Dynamical Systems with Copula Entropy based Transfer Entropy**. [[arXiv](https://arxiv.org/abs/2301.06037)] [[code](https://github.com/majianthu/timelag)]
 * Ma, Jian. **System Identification with Copula Entropy**. [[arXiv](https://arxiv.org/abs/2304.12922)] [[code](https://github.com/majianthu/sysid)]
 * Ma, Jian. **Two-Sample Test with Copula Entropy**. [[arXiv](https://arxiv.org/abs/2307.07247)] [[code](https://github.com/majianthu/tst)]
-* Ma, Jian. **Change Point Detection with Copula Entropy based Two-Sample Test**. [[pdf](/cpd.pdf)]
+* Ma, Jian. **Change Point Detection with Copula Entropy based Two-Sample Test**. [[pdf](/cpd.pdf)] [[code](https://github.com/majianthu/cpd)]
 
 ### Talks
 * BioST 2022, Osaka, Japan. **Predicting TUG score from gait characteristics with video analysis and machine learning**, invited talk. [[media](https://www.hitachi.com.cn/hcrd/news/topics/2022/0723.html)]
