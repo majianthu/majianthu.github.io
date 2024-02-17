@@ -9,6 +9,7 @@
 [Google Scholar](https://scholar.google.com/citations?user=gqCD4kwAAAAJ) · 
 [arXiv](http://arxiv.org/a/ma_j_3) · 
 [Semantic Scholar](https://www.semanticscholar.org/author/Jian-Ma/145608504) · 
+[ResearchGate](https://www.researchgate.net/profile/Jian-Ma-47) · 
 [ORCID](https://orcid.org/0000-0001-5357-1921) · 
 [GitHub](https://github.com/majianthu) · 
 [Blog](https://blog.sciencenet.cn/u/majianthu) · 
@@ -48,4 +49,4 @@ These packages include the implementation of the methods for estimating entropy,
 * Python : [![PyPI version](https://badge.fury.io/py/copent.svg)](https://pypi.org/project/copent)  [![GitHub stars](https://img.shields.io/github/stars/majianthu/pycopent.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/majianthu/pycopent/)
 
 ---
-Last update: 2024-2-15
+Last update: 2024-2-17
