@@ -44,9 +44,9 @@
 
 ### Softwares
 #### copent : Estimating Copula Entropy and Transfer Entropy
-These packages include the implementation of the methods for estimating entropy, copula entropy, transfer entropy, the statistics for multivariate normality test and two-sample test, and change point detection.
+These packages implement the method for estimating empirical copula, the methods for estimating entropy, copula entropy, transfer entropy, the statistics for multivariate normality test and two-sample test, and the method for change point detection.
 * R : [![CRAN](https://www.r-pkg.org/badges/version/copent)](https://cran.r-project.org/package=copent) [![GitHub stars](https://img.shields.io/github/stars/majianthu/copent.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/majianthu/copent/)
 * Python : [![PyPI version](https://badge.fury.io/py/copent.svg)](https://pypi.org/project/copent)  [![GitHub stars](https://img.shields.io/github/stars/majianthu/pycopent.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/majianthu/pycopent/)
 
 ---
-Last update: 2024-03-21
+Last update: 2024-04-11
