@@ -15,7 +15,6 @@ I got my PhD in computer science from Tsinghua University in 2009. My research i
 [Twitter](https://twitter.com/majianthu)
 
 ---
-
 ### Selected Publications
 * Ma, Jian and Sun, Zengqi. **Copula Component Analysis**. International Conference on Independent Component Analysis and Signal Separation, 2007, 73-80. [[arXiv](https://arxiv.org/abs/cs/0703095)] [[DOI](https://doi.org/10.1007/978-3-540-74494-8_10)]
 * Ma, Jian, and Sun, Zengqi. **Mutual information is copula entropy**. Tsinghua Science & Technology, 2011, 16(1): 51-54. [[arXiv](https://arxiv.org/abs/0808.0845)] [[DOI](https://doi.org/10.1016/S1007-0214(11)70008-6)]
@@ -47,5 +46,4 @@ These packages implement the method for estimating empirical copula, the methods
 * Python : [![PyPI version](https://badge.fury.io/py/copent.svg)](https://pypi.org/project/copent)  [![GitHub stars](https://img.shields.io/github/stars/majianthu/pycopent.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/majianthu/pycopent/)
 
 ---
-
 Last update: 2024-04-11
