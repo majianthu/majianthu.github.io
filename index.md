@@ -1,6 +1,6 @@
 <img src="/head.jpeg">
 
-# MA Jian
+## MA Jian
 PhD'09, Tsinghua University | Email: majian03@gmail.com
 
 I got my PhD in computer science from Tsinghua University in 2009. My research interests include statistics, machine learning, information theory, theoretical physics, and dynamical systems. I proposed the theory of copula entropy during my PhD and applied it to several basic statistical problems. I am the author of the R and Python package {copent}.
