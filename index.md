@@ -1,10 +1,9 @@
-<table border = "0">
-  <tr>
-    <td width="15%"><img src="/head.jpeg" /></td>
-    <td width="25%"> <h2> MA Jian </h2> PhD'09, Tsinghua University <br> Email: majian03@gmail.com </td>
-    <td width="60%"> I got my PhD in computer science from Tsinghua University in 2009. My research interests include statistics, machine learning, information theory, theoretical physics, and dynamical systems. I proposed the theory of copula entropy during my PhD and applied it to several basic statistical problems. I am the author of the R and Python package {copent}. </td>
-  </tr>
-</table>
+<img src="/head.jpeg">
+
+# MA Jian
+PhD'09, Tsinghua University | Email: majian03@gmail.com
+
+I got my PhD in computer science from Tsinghua University in 2009. My research interests include statistics, machine learning, information theory, theoretical physics, and dynamical systems. I proposed the theory of copula entropy during my PhD and applied it to several basic statistical problems. I am the author of the R and Python package {copent}.
       
 [Google Scholar](https://scholar.google.com/citations?user=gqCD4kwAAAAJ) · 
 [arXiv](http://arxiv.org/a/ma_j_3) · 
